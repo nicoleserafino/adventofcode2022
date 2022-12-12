@@ -12,11 +12,11 @@ Day | Characters | Lines | Imports Used
 [Day 5](https://github.com/nicoleserafino/adventofcode2022/blob/master/day05/day05.py) | 434 | 11 | 0
 [Day 6](https://github.com/nicoleserafino/adventofcode2022/blob/master/day06/day06.py) | 111 | 2 | 0
 [Day 7](https://github.com/nicoleserafino/adventofcode2022/blob/master/day07/day07.py) | 295 | 10 | 0
-[Day 8](https://github.com/nicoleserafino/adventofcode2022/blob/master/day08/day08.py) | 574 | 21 | 0
-[Day 9](https://github.com/nicoleserafino/adventofcode2022/blob/master/day09/day09.py) | 827 | 30 | 0
+[Day 8](https://github.com/nicoleserafino/adventofcode2022/blob/master/day08/day08.py) | 522 | 18 | 0
+[Day 9](https://github.com/nicoleserafino/adventofcode2022/blob/master/day09/day09.py) | 705 | 26 | 0
 [Day 10](https://github.com/nicoleserafino/adventofcode2022/blob/master/day10/day10.py) | 174 | 7 | 0
-[Day 11](https://github.com/nicoleserafino/adventofcode2022/blob/master/day11/day11.py) | 723 | 20 | 0
-[Day 12](https://github.com/nicoleserafino/adventofcode2022/blob/master/day12/day12.py) | 476 | 17 | 0
+[Day 11](https://github.com/nicoleserafino/adventofcode2022/blob/master/day11/day11.py) | 676 | 20 | 0
+[Day 12](https://github.com/nicoleserafino/adventofcode2022/blob/master/day12/day12.py) | 472 | 17 | 0
 
 
 ## 🤶 Check out my coworkers solutions! 🤶
