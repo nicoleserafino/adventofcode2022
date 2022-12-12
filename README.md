@@ -13,6 +13,7 @@ Day | Characters | Lines | Imports Used
 [Day 6](https://github.com/nicoleserafino/adventofcode2022/blob/master/day06/day06.py) | 111 | 2 | 0
 [Day 7](https://github.com/nicoleserafino/adventofcode2022/blob/master/day07/day07.py) | 295 | 10 | 0
 [Day 8](https://github.com/nicoleserafino/adventofcode2022/blob/master/day08/day08.py) | 609 | 26 | 0
+[Day 9](https://github.com/nicoleserafino/adventofcode2022/blob/master/day08/day09.py) | 861 | 36 | 0
 
 ## 🤶 Check out my coworkers solutions! 🤶
 - [Kirk Hofer](https://github.com/kirkhofer/adventofcode)
