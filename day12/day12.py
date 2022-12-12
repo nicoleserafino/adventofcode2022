@@ -1,4 +1,4 @@
-for s in[['S'],['S', 'a']]:
+for s in[['S'],['S','a']]:
  d=[l.strip()for l in open("day12/input.txt")]
  m=[(i,j,0,'a')for i in range(len(d))for j in range(len(d[i]))if d[i][j]in s]
  v={(i,j)for i,j,*k in m}
